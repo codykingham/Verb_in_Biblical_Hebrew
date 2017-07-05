@@ -1,9 +1,9 @@
 # Tense and Time Spans
 
-This repository contains jupyter notebooks related to my research on verbal tense/aspect in Classical Hebrew. 
+This repository contains jupyter notebooks related to my research on verbal tense/aspect in Biblical Hebrew. 
 
 The primary question addressed by these notebooks is:<br>
-**Do explicit time markers affect the distribution of verbal tense within Classical Hebrew clause chains?**
+**Do explicit time markers affect the distribution of verbal tense within Biblical Hebrew clause chains?**
 
 "explicit time marker" refers to a phrase that provides time reference at the clause level.
 
