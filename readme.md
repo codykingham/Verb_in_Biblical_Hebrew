@@ -11,4 +11,3 @@ The primary question addressed by these notebooks is:<br>
 
 "distribution of verbal tense" refers to the kinds of verbal tenses that are selected throughout a clause chain. A supposition for this part of the research question is that clause atoms at the top of the discourse structure can pass on their clause-level time references to their daughters. That supposition must also be demonstrated by the data. 
 
-.
