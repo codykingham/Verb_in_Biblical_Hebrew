@@ -13,7 +13,7 @@ Semantic methods fail to account for the importance of syntax in narrowing or ex
 With the entire Hebrew Bible encoded syntactically in the `BHSA` (ETCBC) database, and with data processing tools like Python and R, these kinds of questions can be probed by computationally categorizing data based on its use, its occurrence within the clause/text, and subtle patterns encoded in the language itself.  
 
 Here are a few initial research questions this entails:<br>
-1. What kinds of syntactic structures can be used to generate word-relation ("semantic") data? (e.g. [Snow, Jurafsky, Ng, "Learning Syntactic Patterns for Automatic Hypernym Discovery](http://ai.stanford.edu/~rion/papers/hypernym_nips05.pdf))
+1. What kinds of syntactic structures can be used to generate word-relation ("semantic") data? (e.g. Snow, Jurafsky, Ng, ["Learning Syntactic Patterns for Automatic Hypernym Discovery"](http://ai.stanford.edu/~rion/papers/hypernym_nips05.pdf))
 1. What kinds of time markers occur alongside verb forms? (assumes a categorical classification of time indicators)
 2. How does the distribution of verb forms within certain discourse structures affect the distribution of other verb forms?
 3. [to be continued!] 
