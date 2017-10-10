@@ -8,6 +8,9 @@ def is_weqt(verb_node):
     Only the qatal, or perfect is stored in the ETCBC database.
     Typicaly the weqetal is set apart by being in discourse
         with an attached waw.
+        
+    Requires following BHSA features to be loaded
+        vt lex domain
     '''
 
     tense = F.vt.v(verb_node)
@@ -16,7 +19,7 @@ def is_weqt(verb_node):
     # check if tense is perfect
     if tense != 'perf':
         return False
-	
+
     # begin looking for features of weqetal
     # get clause domain
     domain = F.domain.v(clause)
