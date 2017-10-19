@@ -1,8 +1,12 @@
 # Tense in Biblical Hebrew 
 
 ## Most Recent Work
-[`data_analysis/time_phrase_analysis.ipynb`](data/time_phrase_analysis.ipynb)
 
+### 2017-10-19
+[`data_analysis/time_phrase_analysis.ipynb`](data_analysis/time_phrase_analysis.ipynb)
+
+
+## Project Description
 This repository contains jupyter notebooks related to my research on verbal tense/aspect in Biblical Hebrew. 
 
 I am interested in approaching this question at the intersection between syntax and semantics—that is, the point at which formal structure and semantics coincide.
