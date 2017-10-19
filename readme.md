@@ -2,7 +2,7 @@
 
 ## Most Recent Work
 
-### 2017-10-19
+### 2017-10
 [`data_analysis/time_phrase_analysis.ipynb`](data_analysis/time_phrase_analysis.ipynb)
 
 
