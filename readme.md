@@ -1,4 +1,4 @@
-# Tense in Biblical Hebrew 
+# The Verb in Biblical Hebrew 
 
 ## Most Recent Work
 
