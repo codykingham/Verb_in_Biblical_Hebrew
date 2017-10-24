@@ -3,11 +3,11 @@
 Classes are made with regard to the hypothetical relationship of the preposition to its object.
 
 > <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=284 width=468><br>
->  Waltke & O'Connor 1990, 191.
+>  Waltke O'Connor 1990, 191.
 
 
 
-Waltke-O'Connor's preposition diagram shows the base meaning of prepositions in a locative sense. Adapting their diagram for temporal expressions, it is possible to extrapolate three general categories.
+Waltke O'Connor's preposition diagram shows the base meaning of prepositions in a locative sense. Adapting their diagram for temporal expressions, it is possible to extrapolate three general categories.
 
 * internal - within the object ("during")
 * behind_to - behind the object moving towards it ("before")
