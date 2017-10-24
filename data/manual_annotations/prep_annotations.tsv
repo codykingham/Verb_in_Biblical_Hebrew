@@ -1,11 +1,11 @@
 lexeme	annotation
-B	
-<D	
-L	
-MN	
->XR/	
+B	internal
+<D	behind_to
+L	behind_to
+MN	after_from
+>XR/	after_from
 B|L	
-K	
+K	internal
 B|B	
 MN|<D	
 B|B|L	
@@ -15,7 +15,7 @@ L|L
 MN|L	
 L|MN|<D	
 <D|L	
-<L	
+<L	internal
 B|L|B|B|L	
 L|B	
 B|L|B	
@@ -31,13 +31,13 @@ L|K
 B|L|B|L	
 BLT/	
 K|MN	
->T	
+>T	internal
 <D|MN	
 B|L|B|MN|<D	
 >T|>T	
 L|>XR/	
 MN|<D|L	
->L	
+>L	behind_to
 MN|B|MN|B	
 MN|L|<D	
 MN|MN|L|L|MN	

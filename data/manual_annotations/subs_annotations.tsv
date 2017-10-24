@@ -1,113 +1,113 @@
 lexeme	annotation
-JWM/	
-<TH	
-KL/	
-<WLM/	
-<T/	
-CNH/	
-BQR=/	
-LJLH/	
+JWM/	unit
+<TH	deictic_present
+KL/	collection
+<WLM/	duration
+<T/	subunit
+CNH/	unit
+BQR=/	subunit
+LJLH/	subunit
 CB</	
-<RB/	
->Z	
-KN	
+<RB/	subunit
+>Z	demonstrative_far
+KN	event
 CLC/	
-MXR/	
-XDC=/	
+MXR/	deictic_future
+XDC=/	unit
 >RB</	
->XR/	
+>XR/	pos_posterior
 CC/	
-TMJD/	
-PNH/	
-NYX/	
-MWT/	
-MXRT/	
-QY/	
+TMJD/	duration
+PNH/	pos_anterior
+NYX/	duration
+MWT/	event
+MXRT/	deictic_future
+QY/	pos_end
 JWM/|JWM/	
-JWMM	
-<D/	
+JWMM	subunit
+<D/	duration
 GM	
->XRJT/	
-<YM/	
+>XRJT/	pos_end
+<YM/	pos_interior
 R>CWN/	
 JWMM|LJLH/	
 >XD/	
-DBR/	
-<WD/	
-YHRJM/	
-TMWL/	
+DBR/	event
+<WD/	duration
+YHRJM/	subunit
+TMWL/	deictic_past
 DWR/|DWR/	
 CMNH/	
 CNJM/	
 <WLM/|<D/	
-MW<D/	
-QYH=/	
-N<WRJM/	
+MW<D/	subunit
+QYH=/	pos_end
+N<WRJM/	event
 >RB</|>RB</	
-DWR/	
+DWR/	unit
 XMC/	
 R>C/	
 KL/|KL/	
 XYJ/	
 CLC/|CLC/	
-XJJM/	
-TXLH/	
-HNH==	
+XJJM/	event
+TXLH/	pos_start
+HNH==	demonstrative_near
 RG</	
 <WLM/|<WLM/	
-R>CJT/	
-HL>H	
-BVN/	
->TMWL/	
+R>CJT/	pos_start
+HL>H	deictic_future
+BVN/	event
+>TMWL/	deictic_past
 BQR=/|BQR=/	
-VRM/	
+VRM/	pos_anterior
 CLC/|>RB</	
->MC/	
+>MC/	deictic_past
 <FRJM/	
 GM|<TH	
-P<M/	
->K	
+P<M/	event
+>K	pos_start
 CBJ<J/	
 CBW</	
->XRWN/	
-TCWBH/	
-NCP/	
+>XRWN/	pos_posterior
+TCWBH/	event
+NCP/	subunit
 <FRJM/|TC</	
-QDM/	
+QDM/	pos_anterior
 JWM/|<T/	
-MSPR/	
+MSPR/	collection
 TC</	
-XYWT/	
+XYWT/	pos_interior
 <FWR/	
 <FRH=/	
-JRX/	
+JRX/	subunit
 LJLH/|JWMM	
->WR/	
+>WR/	event
 JWM/|M<L/	
-QYJR/	
+QYJR/	event
 <CTJ/	
-RXWQ/	
-QJY/	
-MLKWT/	
-CBT/	
+RXWQ/	duration
+QJY/	subunit
+MLKWT/	event
+CBT/	subunit
 XMC/|M>H/	
 XMC/|CC/	
-MBWL/	
+MBWL/	event
 TC</|M>H/	
 TMWL/|JWM/	
 GM|GM	
-KH	
+KH	demonstrative_near
 >CMRT/	
-VHRH/	
+VHRH/	event
 RQ	
 <FRJM/|CNJM/	
 <FR=/	
-TQWPH/	
+TQWPH/	pos_end
 DJ/	
 JWM/|CNH/	
 GM|TMWL/|GM|CLCWM/	
 CB</|CC/	
-TWK/	
+TWK/	pos_interior
 LJLH/|JWM/	
 <FRJM/|XMC/	
 XMC/|CNJM/	
@@ -116,15 +116,15 @@ CLC/|>XD/
 CLC/|CB</	
 LJL/	
 RB=/	
-M<V/	
+M<V/	collection
 FJBH/	
 <FRJM/|>RB</	
 >RK=/	
-QYT/	
-MNXH/	
+QYT/	pos_end
+MNXH/	event
 RBJ<J/	
 CBT/|XDC=/|MW<D/	
-RWX/	
+RWX/	event
 CLC/|M>H/	
 CB</|CMNH/	
 XMC/|CMNH/	
@@ -143,19 +143,19 @@ CB</|M>H/
 M>H/	
 TC</|<FRJM/	
 JWM/|<FWR/	
-TBW>H/	
+TBW>H/	event
 M>H/|<FR=/	
-CLWXJM/	
+CLWXJM/	event
 JWM/|MXR/	
 XRJC/|QYJR/	
 CC/|CC/	
-JWBL/	
+JWBL/	event
 JWM/|XDC=/|JWM/	
 JWM/|MW<D/|R>C/	
 KL/|KL/|KL/	
-MGPH/	
+MGPH/	event
 CNH/|CNH/	
-XCK/	
+XCK/	event
 >RB</|XMC/	
 <FRJM/|CLC/	
 GM|LJLH/|GM|JWMM	
@@ -163,38 +163,42 @@ ZH|ZH
 NCP/|<RB/	
 GM|>TMWL/|GM|CLCWM/	
 JWM/|MXRT/	
->WR[	
+>WR[	event
 BQR=/|<T/	
-JYQH/	
+JYQH/	event
 >RB</|>XD/	
 CNH/|CMNH/	
 BQR=/|YHRJM/	
+YHRJM/	subunit
 JWM/|KL/	
-DMJ=/	
-JTR/	
-RXM/	
-ZQNH/	
+DMJ=/	event
+JTR/	collection
+RXM/	event
+ZQNH/	event
 GM|>Z	
-M<JM/	
-MY<R/	
+M<JM/	event
+MY<R/	collection
 DJ/|DJ/	
 N<WRJM/|JWM/	
 <T/|<T/	
 CLC/|JWM/	
-PH/	
+PH/	pos_anterior
 XG/|XDC=/|CBT/	
+XG/	event
 CBT/|XDC=/	
 XG/|MW<D/	
-CXR/	
-HR/	
-GZ/	
-MHLK/	
+CXR/	subunit
+HR/	event
+GZ/	event
+MHLK/	event
 JWM/|M<L/|JWM/	
+M<L/	duration
 XMJCJ/|CBJ<J/	
 QJY/|XRP/	
+XRP/	subunit
 >P	
 <RB/|BQR=/|YHRJM/	
-KS>=/	
+KS>=/	subunit
 CMJM/|>RY/	
 CB</|CB</	
 BLT/	
@@ -205,7 +209,7 @@ KWN[
 >LP=/	
 JWM/|LJLH/	
 GM|MXR/	
-ZMN/	
+ZMN/	subunit
 <RB/|BQR=/	
 CBW</|CC/|CNJM/	
 <FRJM/|>XD/	
