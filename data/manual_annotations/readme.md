@@ -2,7 +2,7 @@
 
 Classes are made with regard to the hypothetical relationship of the preposition to its object.
 
-> <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=284 width=468>
+> <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=284 width=468><br>
 >  Waltke & O'Connor 1990, 191.
 
 
@@ -17,7 +17,7 @@ View [prep_annotations.tsv]('prep_annotations.tsv') to see which prepositions ha
 
 Compound prepositional statements will be viewed as extensions of these categories via their combination. Thus, compound prepositions will not be tagged separately. 
 
-<p style="color: red">TO DO: Run diagnostic tests to see whether the multiple prepositions reflected in my list are due to adnominal specifications. If so, they should be removed. Perhaps the compound prepositional phrases are separate Time phrases? I should also look at that.</p>
+*TO DO: Run diagnostic tests to see whether the multiple prepositions reflected in my list are due to adnominal specifications. If so, they should be removed. Perhaps the compound prepositional phrases are separate Time phrases? I should also look at that. -2017-24-10*
 
 # Substantive Classes
 
