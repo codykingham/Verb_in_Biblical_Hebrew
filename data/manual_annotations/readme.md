@@ -13,7 +13,7 @@ Waltke O'Connor's preposition diagram shows the base meaning of prepositions in 
 * behind_to - behind the object moving towards it ("before")
 * after_from - after the object moving away from it ("after")
 
-View [prep_annotations.tsv]('prep_annotations.tsv') to see which prepositions have been tagged with what category.
+View [prep_annotations.tsv](prep_annotations.tsv) to see which prepositions have been tagged with what category.
 
 Compound prepositional statements will be viewed as extensions of these categories via their combination. Thus, compound prepositions will not be tagged separately. 
 
