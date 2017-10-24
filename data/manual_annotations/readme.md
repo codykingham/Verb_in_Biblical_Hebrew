@@ -2,10 +2,10 @@
 
 Classes are made with regard to the hypothetical relationship of the preposition to its object.
 
-> ![Walktke-O'Connor Preposition Diagram](../../images/waltke_prep_diagram.png)
+> <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=400 width=400>
 >  Waltke & O'Connor 1990, 191.
 
-<img src="../../images/waltke_prep_diagram.png">
+
 
 Waltke-O'Connor's preposition diagram shows the base meaning of prepositions in a locative sense. Adapting their diagram for temporal expressions, it is possible to extrapolate three general categories.
 
