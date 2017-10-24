@@ -2,7 +2,7 @@
 
 Classes are made with regard to the hypothetical relationship of the preposition to its object.
 
-> <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=400 width=400>
+> <img src="../../images/waltke_prep_diagram.png" alt="Walktke-O'Connor Preposition Diagram" height=284 width=468>
 >  Waltke & O'Connor 1990, 191.
 
 
