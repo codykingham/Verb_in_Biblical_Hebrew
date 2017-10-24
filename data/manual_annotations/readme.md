@@ -2,7 +2,7 @@
 
 Classes are made with regard to the hypothetical relationship of the preposition to its object.
 
-> ![Walktke-O'Connor Preposition Diagram]('../../images/waltke_prep_diagram.png') <br>
+> <img src='../../images/waltke_prep_diagram.png' alt='Walktke-O'Connor Preposition Diagram'>
 >  Waltke & O'Connor 1990, 191.
 
 Waltke-O'Connor's preposition diagram shows the base meaning of prepositions in a locative sense. Adapting their diagram for temporal expressions, it is possible to extrapolate three general categories.
@@ -15,7 +15,7 @@ View [prep_annotations.tsv]('prep_annotations.tsv') to see which prepositions ha
 
 Compound prepositional statements will be viewed as extensions of these categories via their combination. Thus, compound prepositions will not be tagged separately. 
 
-<span style="font-color: red">TO DO: Run diagnostic tests to see whether the multiple prepositions reflected in my list are due to adnominal specifications. If so, they should be removed. Perhaps the compound prepositional phrases are separate Time phrases? I should also look at that.</span>
+<span style="color: red">TO DO: Run diagnostic tests to see whether the multiple prepositions reflected in my list are due to adnominal specifications. If so, they should be removed. Perhaps the compound prepositional phrases are separate Time phrases? I should also look at that.</span>
 
 # Substantive Classes
 
