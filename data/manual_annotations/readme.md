@@ -25,6 +25,8 @@ For the purpose of this work, the "substantive" is considered either the object 
 
 Unfortunately, due to an oversight on my part, cardinal numbers are included in the export and should have been considered separately from other adverbs. They are ignored for the classifications.
 
+See [subs_annotations.tsv](subs_annotations.tsv) to see all the substantives and their classifications.
+
 Classes are built up gradually on a case by case basis. Classes that are blank will be disregarded.
 
 * `unit` - a specific measurement of time (e.g. "day", "year")
