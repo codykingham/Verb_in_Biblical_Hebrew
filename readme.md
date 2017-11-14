@@ -24,4 +24,4 @@ Here are a few initial research questions this entails:<br>
 1. What kinds of syntactic structures can be used to generate word-relation ("semantic") data? (e.g. Snow, Jurafsky, Ng, ["Learning Syntactic Patterns for Automatic Hypernym Discovery"](http://ai.stanford.edu/~rion/papers/hypernym_nips05.pdf) or Hearst, ["Automatic Acquisition of Hyponyms from Large Text Corpora"](http://people.ischool.berkeley.edu/~hearst/papers/coling92.pdf))
 1. What kinds of time markers occur alongside verb forms? (assumes a categorical classification of time indicators)
 2. How does the distribution of verb forms within certain discourse structures affect the distribution of other verb forms?
-3. [to be continued!]...
+3. [to be continued!]
