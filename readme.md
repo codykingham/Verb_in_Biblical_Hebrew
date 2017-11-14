@@ -3,6 +3,7 @@
 ## Most Recent Work
 
 ### 2017-10
+**Timex and Verb Associations in Biblical Hebrew**
 [`data_analysis/time_phrase_analysis.ipynb`](data_analysis/time_phrase_analysis.ipynb)
 
 
